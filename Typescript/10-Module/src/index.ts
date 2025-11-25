@@ -1,4 +1,4 @@
-import { tambah, PI, type Circle } from "./math.js";//ambl interface pake type
+import { tambah, PI, type Circle } from "./math.js";//ambl interface pake type // pake .js walaupun .ts
 
 console.log("Tambah:", tambah(5, 7));
 console.log("PI:", PI);
